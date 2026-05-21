@@ -1,61 +1,157 @@
-# Hi there! 👋 I'm Mohammad Awan
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Designer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack Developer** dedicated to creating beautiful, functional web applications. I love turning ideas into reality through clean code and innovative design. Always eager to learn new technologies and collaborate with amazing developers!
-
-- 💻 Building modern web applications with React, HTML, CSS, and JavaScript
-- 🎨 Designing intuitive user interfaces and seamless user experiences
-- 🌱 Continuously learning and growing in web development
-- 💡 Passionate about solving real-world problems with code
-- 🤝 Open to collaboration and contributing to open-source projects
-
----
-
-## 🛠️ Tech Stack
+# 👋 Welcome to My GitHub Profile!
 
 <div align="center">
 
-**Languages & Frameworks**
+## 🚀 Full-Stack MERN Developer
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+Building scalable, beautiful web applications with modern technologies
 
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
 ---
 
-## 📦 Featured Projects
+## 🎯 About Me
+
+I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js) with expertise in **Tailwind CSS**. I love transforming ideas into elegant, user-friendly web applications that solve real problems.
+
+- 💻 Building production-ready web applications
+- 🎨 Creating beautiful, responsive UIs with React & Tailwind CSS
+- 🔧 Developing robust backend systems with Node.js & Express
+- 📊 Designing scalable MongoDB databases
+- 🌱 Continuously learning and exploring new technologies
+
+---
+
+## 🛠️ Technical Skills
+
+### 🎨 Frontend Development
+```
+├── React.js
+│   ├── Functional Components & Hooks
+│   ├── State Management (Redux, Context API)
+│   ├── Performance Optimization
+│   └── Custom Hooks Development
+├── Tailwind CSS
+│   ├── Utility-First Styling
+│   ├── Responsive Design
+│   ├── Custom Components
+│   └── Dark Mode Implementation
+├── HTML5 & CSS3
+└── Modern JavaScript (ES6+)
+```
+
+### ⚙️ Backend Development
+```
+├── Node.js
+│   ├── Server Setup & Configuration
+│   ├── Asynchronous Programming
+│   └── Error Handling
+├── Express.js
+│   ├── RESTful API Development
+│   ├── Middleware Implementation
+│   ├── Request/Response Handling
+│   └── Authentication & Authorization
+└── Routing & Controllers
+```
+
+### 🗄️ Database
+```
+├── MongoDB
+│   ├── CRUD Operations
+│   ├── Schema Design
+│   ├── Indexing & Optimization
+│   ├── Aggregation Pipeline
+│   └── Data Validation
+└── Database Relationships & Modeling
+```
+
+### 🔐 Security & Authentication
+```
+├── JWT (JSON Web Tokens)
+├── Password Hashing (bcrypt)
+├── OAuth Implementation
+├── CORS Configuration
+└── Input Validation & Sanitization
+```
+
+### 🛠️ Tools & Technologies
+```
+├── Version Control: Git & GitHub
+├── RESTful API Design
+├── API Testing: Postman
+├── Environment Configuration
+├── Deployment & Hosting
+└── Code Quality & Best Practices
+```
+
+---
+
+## 💡 What I Build
+
+### Full-Stack Web Applications
+End-to-end applications with beautiful frontends and powerful backends that scale
+
+### Responsive Interfaces
+Mobile-first designs using React and Tailwind CSS that work seamlessly across all devices
+
+### Scalable APIs
+RESTful APIs with proper error handling, validation, and authentication
+
+### Database Solutions
+Efficient MongoDB schemas with proper indexing and data relationships
+
+---
+
+## 🎯 My Development Philosophy
+
+✨ **Clean Code** - Writing readable, maintainable, and well-documented code
+
+🎨 **User-Centric Design** - Creating interfaces that users love to interact with
+
+⚡ **Performance First** - Optimizing for speed and efficiency
+
+🔒 **Security Matters** - Implementing best practices for data protection
+
+📱 **Mobile Responsive** - Building applications that work perfectly on all devices
+
+🚀 **Scalability** - Designing systems that grow with user demands
+
+---
+
+## 📊 Featured Projects
 
 <div align="center">
 
-| Project | Description | Live Demo |
-|---------|-------------|-----------|
-| **[Hepta](https://github.com/mohammadawan/hepta)** | Modern web application | [🔗 Visit](https://hepta-gamma.vercel.app) |
-| **[Laundry](https://github.com/mohammadawan/laundry)** | Laundry management system | [🔗 Visit](https://laundry-orpin-pi.vercel.app) |
-| **[Nurture](https://github.com/mohammadawan/nurture)** | Care & wellness platform | [🔗 Visit](https://nurture-delta.vercel.app) |
-| **[Task](https://github.com/mohammadawan/task)** | Task management application | [🔗 Visit](https://task-lime-two.vercel.app) |
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| **Full-Stack Apps** | MERN + Tailwind | Modern web applications with complete functionality |
+| **Responsive Designs** | React + Tailwind CSS | Beautiful, mobile-first user interfaces |
+| **RESTful APIs** | Node.js + Express | Scalable backend systems with authentication |
+| **Database Systems** | MongoDB | Efficient data management and optimization |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🌟 Key Strengths
+
+- ⚡ **Fast Development** - Rapid prototyping with React & Tailwind CSS
+- 🎨 **Design-Minded** - Creating beautiful user interfaces
+- 🔧 **Problem Solver** - Breaking down complex problems into solutions
+- 📚 **Learner** - Always staying updated with latest technologies
+- 🤝 **Collaborator** - Working effectively with teams
+- 📊 **Full-Stack Expertise** - Comfortable across entire tech stack
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -67,19 +163,24 @@ I'm a passionate **Full Stack Developer** dedicated to creating beautiful, funct
 
 ---
 
-## 🎯 Goals & Aspirations
+## 🎓 Learning & Growth
 
-- 🎓 Deepen expertise in **Full Stack Development**
-- 🌐 Build scalable and performant applications
-- 👥 Collaborate on impactful projects with talented developers
-- 📚 Share knowledge and contribute to the developer community
-- 🚀 Create innovative solutions that solve real problems
+Currently diving deeper into:
+- 🚀 Advanced MERN stack patterns
+- 🎨 UI/UX design principles with Tailwind CSS
+- 🔒 Advanced authentication and security practices
+- 📊 Database optimization and scaling
+- ☁️ Cloud deployment and DevOps
 
 ---
 
-## 💬 Let's Connect!
+## 📫 Let's Connect & Collaborate!
 
-I'd love to collaborate with you! Feel free to reach out through:
+I'm always excited to:
+- 💬 Discuss web development and new technologies
+- 🤝 Collaborate on interesting MERN stack projects
+- 🎓 Share knowledge and learn from others
+- 🌐 Contribute to open-source initiatives
 
 <div align="center">
 
@@ -91,8 +192,10 @@ I'd love to collaborate with you! Feel free to reach out through:
 ---
 
 <div align="center">
-  
-⭐ If you like my work, consider giving a star to my repositories!
+
+### 🎉 Happy Coding! ✨
+
+**⭐ If you find my projects useful, please give them a star!**
 
 **Made with ❤️ by Mohammad Awan**
 
